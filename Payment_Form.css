@@ -1,3 +1,11 @@
-body {
-  background: orange;
+.maindiv {
+  background-color: #ec7063;
+}
+
+.div1{
+  background-color: #EBEDEF;
+margin : 20px;
+padding : 10px;
+border-radius : 10px;
+
 }
